@@ -1,6 +1,6 @@
 {
   "name": "scrollstore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Angular2 service which mocks the scroll behaviours of the broweser for single page apps made byt Angular2",
   "main": "index.js",
   "scripts": {
