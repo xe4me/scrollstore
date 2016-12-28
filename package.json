@@ -1,0 +1,27 @@
+{
+  "name": "scrollstore",
+  "version": "1.0.0",
+  "description": "A simple Angular2 service which mocks the scroll behaviours of the broweser for single page apps made byt Angular2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xe4me/scrollstore.git"
+  },
+  "keywords": [
+    "scroll",
+    "behaviour",
+    "spa",
+    "single",
+    "page",
+    "app"
+  ],
+  "author": "xe4me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xe4me/scrollstore/issues"
+  },
+  "homepage": "https://github.com/xe4me/scrollstore#readme"
+}
