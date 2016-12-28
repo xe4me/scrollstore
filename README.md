@@ -1,4 +1,4 @@
-# scroll-store [![Travis][build-badge]][build] [![npm][npm-badge]][npm]
+# scrollstore
 
 
 A module to mock scroll behaviours for SPA apps created by Angular2 ( and above ).
@@ -7,7 +7,7 @@ The result is a normal scroll behaviour of the browser, where it knows where you
 that position and if the page is new, it scrolls you to the top of the page
 
 ## Usage
-1-  ```$ npm install scrollstore```;
+1-  ```npm install scrollstore```;
 
 2- Go to your app.module ( where you import all your root modules ).
 
